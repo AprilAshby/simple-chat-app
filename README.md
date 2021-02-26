@@ -1,2 +1,2 @@
 # simple-chat-app
-Practice with Zac at Lambda
+A simple app that lets you chat with firends in real time using sockets
